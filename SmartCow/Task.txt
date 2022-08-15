@@ -1,0 +1,26 @@
+Description
+The provided code generates a frame every
+seconds containing randomly generated cows placedat random locations on each frame.
+Your task is to use
+Computer Vision
+techniques to identify, per frame, the number of cows visible.You are not restricted to using only
+Deep Learning
+solutions, however, it is encouraged.
+
+
+
+To run the application
+python3 main.py
+Deliverables
+Write your code either in
+main.py
+where indicated or in a seperate class file and call your classwhere indicated in
+main.py
+. Please include appropriate comments and explain your thoughtprocess where possible.
+If you decide to train a model, please include the training script with your submission.
+Please avoid using the background images located inside the NellieJay folder directly for backgroundsubtraction. You may, however, use the images and cow templates found in
+NellieJay/resources/
+and
+NellieJay/resources/cows/
+to train your model if you wish.
+Please note that your code will be executed on a Ubuntu machine.
